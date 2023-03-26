@@ -6,6 +6,7 @@ email_address: ydshi999@gmail.com
 github_repo: https://github.com/DannieSYD/DannieSYD.github.io.git
 ---
 
+
 ```{r echo = FALSE, message = FALSE}
 library(lubridate)
 ```
@@ -27,7 +28,15 @@ body{
 }
 ```
 
-![](visuals/flying_puppy.png)
 
+<!-- ![](visuals/flying_puppy.png){width=50%} -->
+<center>
+Look! Here is a flying puppy!  🤩
+
+<div align=center>
+<img src="visuals/flying_puppy.png"/>
+</div>
+
+<center>
 Last updated on `r today()`  
 Site [developed](`r rmarkdown::metadata$github_repo`) by [Yidan Shi](mailto: `r rmarkdown::metadata$email_address`)
