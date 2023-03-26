@@ -6,4 +6,19 @@ email_address: ydshi999@gmail.com
 github_repo: https://github.com/DannieSYD/DannieSYD.github.io.git
 ---
 
+'''{css echo = FALSE}
+.author, .title {
+    display: none;
+}
+
+.main-container {
+    max-width:100%;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+'''
+
 ![](visuals/flying_puppy.png)
