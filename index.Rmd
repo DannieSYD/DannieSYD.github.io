@@ -1,0 +1,9 @@
+---
+title: Personal profile
+author: Yidan Shi
+output: html_document
+email_address: ydshi999@gmail.com
+github_repo: https://github.com/DannieSYD/DannieSYD.github.io.git
+---
+
+![](visuals/flying_puppy.png)
