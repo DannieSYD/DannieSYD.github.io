@@ -24,14 +24,14 @@ library(lubridate)
 body{
     background-color: black;
     color: #f5f5f5;
-    font-size: 1.2vw;
+    font-size: 1.7vw;
 }
 ```
 
 
 <!-- ![](visuals/flying_puppy.png){width=50%} -->
 <center>
-Look! Here is a flying puppy!  🤩 for bongbong
+Look! Here is a flying puppy!  🤩
 
 <div align=center>
 <img src="visuals/flying_puppy.png"/>
